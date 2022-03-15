@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.ff{
+  font-family: 'Josefin Sans', sans-serif;
+  }
+  .teko{
+    font-family: 'Teko', sans-serif;
+  }
+  .lg{
+    font-family: 'Luckiest Guy', cursive;
+  }
+  .fs3{
+  font-size: 3vh;
+  }
+  .bg-dark-blue{
+    background-color: darkblue;
+  }

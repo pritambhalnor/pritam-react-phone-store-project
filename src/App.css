@@ -1,3 +1,10 @@
+:root{
+  --mainblue:#2a2a72;
+  --lightblue:#009ffd;
+  --mainwhite:#f3f3f3;
+  --maindark:#232528;
+  --mainyellow:#ffa400;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +42,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btn-black{
+  background: transparent;
+  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  color: var(--maindark);
+  border-radius: 0 !important;
+  border: 0.1rem solid var(--maindark) !important;
+}
+.btn-black:hover{
+  background: var(--maindark) !important;
+  color: var(--mainwhite) !important;
+}
+.cart-icon{
+  cursor:pointer;
+  font-size: 1.2rem;
+  color:var(--mainyellow) !important;
+}
+
+.text-title{
+  font-weight: bold;
+  font-family: 'Josefin Sans', sans-serif;
+
 }

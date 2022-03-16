@@ -48,14 +48,93 @@ export const storeProduts = [
     {
         id:5,
         title:"HTC Desire 626s",
-        img: "img/product-3.png",
+        img: "img/product-5.png",
         price:24,
         company:"HTC",
         info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
         incart:false,
         count:0,
         total:0
+    },
+    {
+        id:6,
+        title:"Vintage Iphone",
+        img: "img/product-6.png",
+        price:17,
+        company:"APPLE",
+        info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
+        incart:false,
+        count:0,
+        total:0
     }
+    ,
+    {
+        id:7,
+        title:"Iphone 7",
+        img: "img/product-7.png",
+        price:30,
+        company:"APPLE",
+        info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
+        incart:false,
+        count:0,
+        total:0
+    },
+    {
+        id:8,
+        title:"Smashed Iphone",
+        img: "img/product-8.png",
+        price:2,
+        company:"APPLE",
+        info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
+        incart:false,
+        count:0,
+        total:0
+    },
+    {
+        id:9,
+        title:"Galaxy f12",
+        img: "img/product-9.webp",
+        price:13,
+        company:"SAMSUNG",
+        info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
+        incart:false,
+        count:0,
+        total:0
+    },
+    {
+        id:10,
+        title:"Galaxy M12",
+        img: "img/product-10.webp",
+        price:23,
+        company:"SAMSUNG",
+        info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
+        incart:false,
+        count:0,
+        total:0
+    },
+    {
+        id:11,
+        title:"Galaxy f22",
+        img: "img/product-11.webp",
+        price:19,
+        company:"SAMSUNG",
+        info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
+        incart:false,
+        count:0,
+        total:0
+    },
+    {
+        id:12,
+        title:"Redmi 9a",
+        img: "img/product-12.jpg",
+        price:20,
+        company:"REDMI",
+        info:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo blanditiis ex quisquam aperiam quo perspiciatis illo nihil laboriosam saepe quaerat tempora animi assumenda a nisi, consequatur omnis, laudantium, et culpa ratione! Quis, vero? Quis fugit asperiores culpa veniam veritatis consectetur?",
+        incart:false,
+        count:0,
+        total:0
+    }
+
 ];
 
 export const detailproduct = {
